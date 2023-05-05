@@ -58,6 +58,20 @@ ssh -T git@github.com
  $ git push origin master
  ~~~
 
+### 出错及解决方案
+
+- **问题 1**
+
+![img](https://img-blog.csdnimg.cn/img_convert/634bfdb46101faca5327d62c2507170f.png)
+
+[参考解决方法1](https://blog.csdn.net/Kenway090704/article/details/80613667)
+
+[参考解决方法2](https://blog.csdn.net/liulei952413829/article/details/117553977)
+
+- **问题 2** Failed to connect to github.com port 443 after  XXX ms: Couldn‘t connect to server
+
+[参考解决方法](https://blog.csdn.net/m0_64007201/article/details/129628363)
+
 ## 克隆远程仓库
 
 ~~~ git
